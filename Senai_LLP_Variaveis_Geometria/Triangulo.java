@@ -48,8 +48,7 @@ public class Triangulo {
                 double b = leia.nextDouble();
                 System.out.print("Digite o terceiro lado: ");
                 double c = leia.nextDouble();
-                // Fórmula de Heron
-                double p = (a + b + c) / 2; // semiperímetro
+                double p = (a + b + c) / 2; 
                 area = Math.sqrt(p * (p - a) * (p - b) * (p - c));
                 break;
                 

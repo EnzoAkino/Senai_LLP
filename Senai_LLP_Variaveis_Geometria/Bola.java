@@ -1,7 +1,7 @@
 package Senai_LLP_Variaveis_Geometria;
 
 import java.util.Scanner;
-// Faça um algoritmo que leia um numero n e imprima os n primeiros termos da serie de fibonacci
+
 public class Bola {
     @SuppressWarnings({ "resource", "unused" })
     public static void main(String[] args) {
